@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scipy
+requests
+pyarrow
+nbformat
+eptr2
+playwright

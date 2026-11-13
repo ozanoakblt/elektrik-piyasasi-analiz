@@ -1,0 +1,10 @@
+exec(open("charts.py").read().split("# C1 mevsim")[0])
+M=pd.read_csv(f"{DATA}/yagis_hidro_aylik.csv",index_col=0,parse_dates=True)
+fig,ax=plt.subplots(figsize=(9.6,6.2))
+ax.bar(M.index,M.yagis_mm,width=22,color=G1,label="Yağış (6 havza noktası ort., mm/ay)")
+ax.set_ylabel("Aylık yağış (mm)");ax.set_ylim(0,260)
+ax2=ax.twinx();ax2.plot(M.index,M.hidro_gw,color=OR,lw=3,label="Hidro üretimi (GW)");ax2.set_ylabel("Hidro ortalama üretim (GW)",color=OR);ax2.set_ylim(0,18);ax2.grid(False);ax2.spines["right"].set_visible(True);ax2.spines["right"].set_color("#cfd4dc")
+h1,l1=ax.get_legend_handles_labels();h2,l2=ax2.get_legend_handles_labels();ax.legend(h1+h2,l1+l2,frameon=False,loc="upper left",fontsize=11)
+fig.tight_layout();save(fig,"n6")
+for y in (2023,2024,2025,2026):
+    s=M[(M.index.year==y)&(M.index.month<=5)];print(y,"Oca-May yağış",round(s.yagis_mm.sum()),"Nis-Haz hidro",round(M[(M.index.year==y)&M.index.month.isin([4,5,6])].hidro_gw.mean(),1))

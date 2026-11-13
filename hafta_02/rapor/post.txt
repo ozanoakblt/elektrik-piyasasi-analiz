@@ -1,0 +1,32 @@
+Ekim 2026'da elektrik son dört Ekim'in en ucuzuydu: ortalama PTF 59,3 USD/MWh. Ama ay sonuna doğru fiyat tırmandı. Neden?
+
+Aylık rapor serisinin ilki. Her ay bir önceki ayı EPİAŞ Şeffaflık Platformu verisiyle inceleyeceğim.
+
+Fiyatı iki tür etken oynatır. Hacim (talep, hidro, rüzgâr, güneş) teklif sırasında hangi santralin son sıraya düştüğünü belirler. Maliyet o son santralin teklifinin ne kadar olduğunu belirler.
+
+1) Ekim'i ucuz tutan hacimdi
+Tüketim son dört Ekim'in en yükseği (38,2 GW), ama termik santrallere kalan yük en düşüğü (20,8 GW). Fark sudan geliyor: hidro payı %29, Ekim 2025'te %11.
+
+2) Ama aynı yükte fiyat yükseldi
+Eylül'den Ekim'e PTF 2,7 USD/MWh arttı. Termik yük düştüğü için hacim fiyatı 2,4 USD aşağı çekti; artış, aynı yükte fiyatın 3,0 USD yükselmesinden geldi.
+
+3) Sekiz olası nedeni veriyle test ettim
+- BOTAŞ gaz tarifesi: değişmedi (18.000 TL/1000 Sm³). Açıklamıyor.
+- Kur: sadece %1,7 arttı, kayma TL'de de var. Açıklamıyor.
+- Dış ticaret: net ihracat azaldı, ters yönde. Açıklamıyor.
+- İthal kömür bulunabilirliği: santrallerin hazır kapasitesi (EAK) 9,3 GW'tan 8,1 GW'a düştü, 29-31 Ekim'de 5,9 GW'a indi. Santraller hazır kapasitenin %91'iyle çalıştı; yani sırada geriye düşmediler, kapasite eksildi.
+- Spot gaz: günlük referans fiyatı (GRF) Ekim'de %14 arttı ve BOTAŞ tarifesinin üstüne çıktı. Gazın yakıt maliyeti 62,6'dan 70,2 USD/MWh'a yükseldi.
+- Sonuç olarak aynı termik üretimde gaz payı arttı (18-20 GW'ta %19'dan %25'e) ve akşam saatlerinin %27'sinde fiyat tavana (4.500 TL/MWh) dayandı.
+- Baraj su değerini test edemedim: EPİAŞ servisi yalnızca güncel doluluğu veriyor.
+
+Zincir: ithal kömür kapasitesi düştü → boşluğu gaz doldurdu → gaz da pahalandı → akşam saatleri tavana dayandı. Ayın son haftası (24-31 Ekim) ortalama PTF 66,9 USD/MWh.
+
+Yıllık kıyasta dikkat: tavan 3.400 TL'den 4.500 TL'ye çıktı ve Ekim 2025 akşamlarının %68'i tavandaydı. Bu yüzden yıllık değişimi büyüklük olarak yorumlamıyorum.
+
+Kışa girerken izleyeceğim dört gösterge: hidro payı, ısınma talebi, ithal kömür kapasitesi ile spot gaz ve akşam saatleri.
+
+Sizce kışın fiyatı en çok hangisi belirler: barajlardaki su mu, kömür santrallerinin bulunabilirliği mi, gaz fiyatı mı?
+
+Paylaşımlar kişisel çalışmamdır. Bunlar ilişkilerdir, nedensellik iddiası değildir.
+
+#elektrikpiyasası #PTF #enerji #verianalizi #EPİAŞ #dogalgaz #BOTAŞ #hidroelektrik #energymarkets #enerjipiyasası #gününöncesipiyasası #enerjianalizi #datascience #electricitymarkets #powermarkets

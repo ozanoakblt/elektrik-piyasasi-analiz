@@ -1,0 +1,23 @@
+# Veri (EPİAŞ verisi repoya eklenmez; notebook'lar ile yeniden indirilir)
+01_ham_veri/
+02_islenmis/
+data/
+*.csv
+*.parquet
+*.json
+# Elle derlenmiş küçük kaynak tablolar hariç
+!hafta_*/kaynak/*.csv
+# Gizli bilgiler (EPİAŞ oturum bileti dahil)
+.env
+*.env
+.eptr2-tgt
+*tgt*
+secrets*
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+# Üretilen geçici dosyalar
+hafta_*/kod/g/
+k.html

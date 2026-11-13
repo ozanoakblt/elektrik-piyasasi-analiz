@@ -1,0 +1,29 @@
+Türkiye'de tüketilen elektriğin ne kadarı PTF'den fiyatlanıyor?
+
+İlk iki hafta PTF'yi açıkladım. Bu hafta PTF'nin piyasadaki yerini ölçtüm. Bir MWh teslim anına kadar dört piyasadan geçebilir: ikili anlaşma, gün öncesi (GÖP), gün içi (GİP) ve dengeleme.
+
+EPİAŞ Şeffaflık verisiyle 2023-2026, saatlik. Her piyasada el değiştiren enerjiyi tüketime oranladım.
+
+Ne buldum:
+
+1. Tüketimin yaklaşık %60'ı kadar enerji her saat GÖP'te, doğrudan PTF'den el değiştiriyor. Bu oran dört yıldır %58-67 bandında.
+
+2. İkili anlaşma bildirimleri tüketimden büyük: 2023'te tüketimin %76'sı kadardı, 2026'da %141. Aynı MWh birden fazla kez el değiştiriyor. Artışın neredeyse tamamı özel sektör anlaşmalarından geliyor.
+
+3. Fiyat düştükçe ikili anlaşma artıyor. Yıl ve takvim ayı etkilerini sabitleyince bile, aylık PTF 10 USD/MWh daha düşükken ikili anlaşma oranı 3,5-4,6 puan daha yüksek. Mayıs 2026'da PTF 13 USD'ye indiğinde özel ikili anlaşmalar tüketimin %139'una çıktı, GÖP %51'e geriledi.
+
+4. 2026'da GÖP oranı öğle saatlerinde en düşük (%55), akşam en yüksek (%63). PTF en çok enerjiyi akşamın pahalı saatlerinde fiyatlıyor.
+
+5. Spot fiyata açık kalmanın riski arttı: 2026'da günlük en yüksek ve en düşük PTF arasındaki fark ortalama 62 USD/MWh (2024-25: 47-49).
+
+6. Diğer fiyatlar PTF'nin etrafında dönüyor. GİP, PTF'den ortalama 1 USD'den az sapıyor. SMF ise enerji açığında PTF'nin üstüne, fazlasında altına iniyor.
+
+Kısacası: PTF'ye bakmamızın nedeni sadece GÖP'teki %60 değil. Gün içi ve dengeleme fiyatları da ona göre şekilleniyor.
+
+Bilmediklerim: İkili anlaşmaların fiyatı, süresi ve tarafları yayınlanmıyor. Hangi tarafın kâr ettiğini ve ikili anlaşma artışının mekanizmasını bu veri göstermiyor. YEKDEM üretim verisini alamadığım için YEKDEM'in GÖP'e etkisini de ayrıştıramadım. Bunlar ilişkiler, nedensellik iddiası değil.
+
+Sektöre bir sorum var: PTF düştüğü aylarda ikili anlaşma bildirimleri neden artıyor olabilir? Zincirleme ticaret mi, portföy ayarlaması mı, başka bir şey mi? Yorumlarda konuşalım.
+
+Gelecek hafta: GÖP'te fiyatı belirleyen teklif eğrisi gerçekte neye benziyor?
+
+#ElektrikPiyasası #EPİAŞ #PTF #EnerjiAnalizi #VeriAnalizi

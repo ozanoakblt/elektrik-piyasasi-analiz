@@ -1,0 +1,28 @@
+Mayıs 2026'da elektriğin saatlik fiyatı, önceki üç yılın Mayıs ortalamasının yalnızca %17'sine indi. Peki neden?
+
+Elektrik piyasası analizi serisine başlıyorum. Her hafta EPİAŞ Şeffaflık Platformu verisiyle tek bir soruya bakacağım. İlk soru: PTF günün saatine, yılın ayına ve üretim karışımına göre nasıl değişiyor?
+
+Mekanizma kısaca: Gün öncesi piyasasında satış teklifleri ucuzdan pahalıya dizilir, talep dolana kadar yukarı çıkılır ve talebi karşılayan son teklif PTF'yi belirler.
+
+2023-2026 arasındaki 33.600 saatlik veride gördüklerim:
+
+- Öğle saatleri ucuz, 17-21 arası akşam saatleri neredeyse her ay pahalı.
+- Öğle çukuru her yıl derinleşiyor. USD bazında öğle fiyatının yıl ortalamasına oranı 2023'te 0,93, 2026'da 0,67. Akşam fiyatının öğleye oranı 1,29'dan 2,22'ye çıktı.
+- Aynı dönemde öğle saatlerinde güneşin üretimdeki payı %3,5'ten %8,1'e, rüzgârın payı %10,3'ten %13,2'ye çıktı. (Güneş verisi EPİAŞ gerçek zamanlı üretimdeki güneştir, lisanssız üretimi tam kapsamayabilir.)
+- 2026 baharı ise bu eğilimin de dışında. Mayıs'ta 244 saat PTF 100 TL/MWh altında kaldı, önceki yıllarda aynı ay 7-9 saatti.
+
+Bu kopuşa güneş değil, hidroloji eşlik ediyor:
+1. Nisan-Haziran'da hidroelektrik üretimi 2025'e göre yaklaşık 6,6 GW arttı, ithal kömür 3,5 GW ve doğal gaz 2,2 GW geriledi.
+2. Aynı net yükte fiyat çok daha düşük: 30-35 GW aralığında ortalama 63 USD/MWh'dan 17 USD/MWh'a indi.
+3. Regresyon da aynı yönü gösteriyor: hidro, rüzgâr ve güneş arttıkça fiyat düşüyor. Ancak yakıt maliyeti modelde olmadığı için katsayıların büyüklüğünü nihai saymıyorum.
+4. Yağış, hidro üretimini yaklaşık 2 ay gecikmeyle izliyor (korelasyon 0,65). Ocak-Mayıs yağışı 2026'da dört yılın en yükseği.
+
+Not: Bunlar ilişkiler, nedensellik iddiası değil. Doğal gaz ve kömür fiyatları ile fiyat tavanı modelde yok; Hafta 3'te yakıt maliyetini ekleyeceğim.
+
+Gelecek hafta Ekim 2026 aylık raporunu paylaşacağım.
+
+Sizce akşam-gündüz farkının açıldığı bahar aylarında en çok hangi esneklik çözümü değer kazanır: depolama mı, talep yönetimi mi?
+
+Paylaşımlar kişisel çalışmamdır.
+
+#elektrikpiyasası #PTF #enerji #verianalizi #EPİAŞ #hidroelektrik #energymarkets #enerjidönüşümü #enerjipiyasası #elektrik #yenilenebilirenerji #güneşenerjisi #rüzgârenerjisi #gününöncesipiyasası #enerjianalizi #datascience #dataanalytics #electricitymarkets #renewableenergy #energytransition
